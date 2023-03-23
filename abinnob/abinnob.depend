@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679193655 source:d:\anhbinpromax\abinnob\main.cpp
+	<iostream>
+	<math.h>
+

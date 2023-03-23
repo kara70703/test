@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678976102 source:d:\anhbinpromax\helloworld\main.cpp
+	<iostream>
+	<math.h>
+
